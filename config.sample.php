@@ -13,7 +13,7 @@
 
 
 /** directory name(s) */
-$dir = array("/Users/username/Sites/*");
+$dir = array("/Users/Stefan/Sites/*");
 					
 /** Your local top level domain */
 $tld = 'dev';
@@ -34,7 +34,7 @@ $icons = array( 'apple-touch-icon.png', 'favicon.ico' );
 */
 $devtools = array(
 //	array( 'name' => 'Tool', 'url' => 'http://example.com/' ),
-	array( 'name' => 'Web Host Admin', 'url' => 'http://example.com/' ),
+	array( 'name' => 'Web Host Admin', 'url' => 'https://account.1and1.co.uk/' ),
 	array( 'name' => 'Github', 'url' => 'http://github.com/' ),
 	);
 
